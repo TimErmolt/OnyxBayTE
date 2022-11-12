@@ -35,6 +35,11 @@
 	name = "grey jumpsuit"
 	color = "#c4c4c4"
 
+// Syndicate item -- obtainable via uplink. ~TheUnknownOne
+/obj/item/clothing/under/color/grey/insulated
+	desc = "The latest in space fashion. This one seems a bit thicker than usual."
+	siemens_coefficient = 0.1
+
 /obj/item/clothing/under/color/blue
 	name = "blue jumpsuit"
 	color = "#0066ff"

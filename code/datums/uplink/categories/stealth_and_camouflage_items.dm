@@ -40,6 +40,12 @@
 	item_cost = 3
 	path = /obj/item/storage/backpack/satchel/flat
 
+datum/uplink_item/item/stealth_items/insulated_jumpsuit
+	name = "Insulated Jumpsuit"
+	desc = "It's visually identical to a standard issue grey jumpsuit, but has a layer of an insulator woven into its cloth, providing strong resistance against electric shocks."
+	item_cost = 4
+	path = /obj/item/clothing/under/color/grey/insulated
+
 /datum/uplink_item/item/stealth_items/chameleon_projector
 	name = "Chameleon Projector"
 	desc = "Embedded with a hidden holographic cloaker, allowing it to change it's appearance."
